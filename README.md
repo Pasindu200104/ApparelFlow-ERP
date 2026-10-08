@@ -1,11 +1,11 @@
+# ApparelFlow ERP — Cutting Gatekeeper Verification Terminal
+
 <img width="1917" height="967" alt="Screenshot 2026-10-08 164616" src="https://github.com/user-attachments/assets/b7223f56-006b-48ae-85fa-a8b3ce4e44e4" />
 <img width="1917" height="966" alt="Screenshot 2026-10-08 164548" src="https://github.com/user-attachments/assets/0d2a124f-2853-4d43-b888-a14b18cf6753" />
 <img width="1917" height="962" alt="Screenshot 2026-10-08 164513" src="https://github.com/user-attachments/assets/8ffcd9da-3b15-4d3c-b06a-c91c4489f4cb" />
 <img width="1917" height="972" alt="Screenshot 2026-10-08 164418" src="https://github.com/user-attachments/assets/5ebcce68-bf8f-4dcc-b73f-3d4dfac4195c" />
 <img width="1917" height="967" alt="Screenshot 2026-10-08 164346" src="https://github.com/user-attachments/assets/74119f62-f895-479b-a0da-057c13f9fe1e" />
 <img width="1916" height="970" alt="Screenshot 2026-10-08 164218" src="https://github.com/user-attachments/assets/ea97af72-3f5b-4e17-ab16-5e3da6bf1fda" />
-
-# ApparelFlow ERP — Cutting Gatekeeper Verification Terminal
 
 Split architecture: **React (Vite)** frontend on Vercel, **Node.js + Express** API on Railway/Render, **PostgreSQL on Supabase**.
 
